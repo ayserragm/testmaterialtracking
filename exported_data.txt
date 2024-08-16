@@ -1,0 +1,19 @@
+ID: 1, Username: aa, Password: aa    , User Type: 0
+ID: 2, Username: aa, Password: aa, User Type: 0
+ID: 3, Username: ayseserra, Password: 12345    , User Type: 1
+ID: 4, Username: ayseserra, Password: 12345, User Type: 1
+ID: 5, Username: ayseserragmstkm, Password: 12345, User Type: 0
+ID: 6, Username: ItachiUchiha, Password: 124578, User Type: 0
+ID: 7, Username: metehangokturk, Password: 12, User Type: 0
+ID: 8, Username: compprogtwo, Password: 11111, User Type: 0
+ID: 9, Username: nhjkm, Password: 123, User Type: 0
+ID: 10, Username: helloworld, Password: 12345, User Type: 0
+ID: 11, Username: world1, Password: 12345, User Type: 0
+ID: 12, Username: world_1, Password: 12345, User Type: 1
+ID: 13, Username: aysesrr1, Password: 12345, User Type: 0
+ID: 14, Username: aysesrr2, Password: 12345, User Type: 1
+ID: 15, Username: ayse1, Password: 12345, User Type: 0
+Material ID: 1, Material Name: meter, Quantity: 10, Category: physical
+Material ID: 2, Material Name: Turnusol Paper, Quantity: 10, Category: chemical
+Material ID: 21, Material Name: blood, Quantity: 3, Category: biological
+Material ID: 24, Material Name: material, Quantity: 6, Category: biological
